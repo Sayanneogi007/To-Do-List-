@@ -6,12 +6,19 @@ The app features a clean and responsive design, making it accessible across devi
 
 🚀 Core Features:
 Add Tasks: Users can input and add new to-do items.
+
 Mark Completed: Tasks can be checked off as completed.
+
 Delete Tasks: Items can be removed individually.
+
 Responsive Design: Works well on both desktop and mobile devices.
+
 Local Storage Support (optional): Saves tasks across sessions.
 
 🛠️ Technologies Used:
+
 HTML5 – Structured the layout and content.
+
 CSS3 – Designed a user-friendly, responsive interface.
+
 JavaScript – Enabled interactivity and dynamic task handling.
