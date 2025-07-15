@@ -1,6 +1,7 @@
 📌 Project Title: To-Do List (Web Application)
 
 📝 Description:
+
 The To-Do List Web Application is a simple and interactive task management tool built using HTML, CSS, and JavaScript. It helps users organize their daily tasks by allowing them to add, mark as complete, and delete items easily.
 The app features a clean and responsive design, making it accessible across devices. JavaScript is used for handling user interactions and dynamically updating the task list in real time. Optionally, local storage can be used to save tasks, allowing users to retain their to-do list even after refreshing the page.
 
